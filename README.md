@@ -1,4 +1,4 @@
-# Sistemena de Ordens de Serviço
+# Sistema de Ordens de Serviço
 
 Esse é um sistemas completo que desenvolvemos usando as tecnologias Spring Boot 2.x para desenvolver uma API REST com boas práticas de Engenharia de Software onde hospedamos a mesma na plataforma Herokun e posteriormente criamos um sistema Frontend com o framework Angular 11 para consumir nossa API. 
 
