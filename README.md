@@ -11,7 +11,9 @@ Consulte os pré requisitos para saber como implantar o projeto.
 ### 📋 Pré-requisitos
 
 Java 11
+
 Spring Boot 2.5.3
+
 Umaa IDE para o desenvolvimento
 
 ### 🔧 Instalação
