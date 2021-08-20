@@ -19,7 +19,9 @@ Umaa IDE para o desenvolvimento
 ### 🔧 Instalação
 
 Para instalação do Kit JKD 11 acesse o site: https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html e faça o download.
+
 Para criar um projeto spring boot acesse o site: https://start.spring.io/ 
+
 A IDE utilizada nesse projeto foi o Intellij, mas pode ser utilizado a da sua prefência.
 
 ## ✒️ Autores
