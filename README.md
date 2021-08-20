@@ -22,7 +22,7 @@ Para instalação do Kit JKD 11 acesse o site: https://www.oracle.com/br/java/te
 
 Para criar um projeto spring boot acesse o site: https://start.spring.io/ 
 
-A IDE utilizada nesse projeto foi o Intellij, mas pode ser utilizado a da sua prefência.
+A IDE utilizada nesse projeto foi o Intellij, mas pode ser utilizado a da sua prefêrencia.
 
 ## ✒️ Autores
 https://www.linkedin.com/in/rafael-souza-7b5553206/
