@@ -14,7 +14,7 @@ Java 11
 
 Spring Boot 2.5.3
 
-Umaa IDE para o desenvolvimento
+Uma IDE para o desenvolvimento. Um exemplo utilzada nesse projeto foi o Intellij.
 
 ### 🔧 Instalação
 
