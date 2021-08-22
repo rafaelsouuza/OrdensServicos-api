@@ -16,7 +16,7 @@ Spring Boot 2.5.3
 
 MySql 8.0 CE
 
-OBS: Pode ser utilizado o banco de dados em mémoria tabmém, basta setar "Test" no arquivo application.proporties.
+OBS: Pode ser utilizado o banco de dados em mémoria também, basta setar "Test" no arquivo application.proporties.
 
 Uma IDE para o desenvolvimento. Um exemplo utilzada nesse projeto foi o Intellij.
 
